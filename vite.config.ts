@@ -4,4 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
+  base: '/https://github.com/dropsik15/technologie-webowe.git/'
 })
